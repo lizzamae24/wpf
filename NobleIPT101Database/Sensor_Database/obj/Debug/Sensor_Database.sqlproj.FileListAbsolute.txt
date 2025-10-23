@@ -1,0 +1,6 @@
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\NobleIPT101Database\NobleIPT101Database\Sensor_Database\bin\Debug\Sensor_Database.dacpac
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\NobleIPT101Database\NobleIPT101Database\Sensor_Database\bin\Debug\Sensor_Database.dll
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\NobleIPT101Database\NobleIPT101Database\Sensor_Database\bin\Debug\Sensor_Database.pdb
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\NobleIPT101Database\NobleIPT101Database\Sensor_Database\obj\Debug\Sensor_Database.sqlproj.AssemblyReference.cache
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\NobleIPT101Database\NobleIPT101Database\Sensor_Database\obj\Debug\Sensor_Database.dll
+C:\Users\noble\OneDrive\Documents\Visual Studio 2022\NobleIPT101Database\NobleIPT101Database\Sensor_Database\obj\Debug\Sensor_Database.pdb
